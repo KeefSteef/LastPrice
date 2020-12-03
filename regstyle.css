@@ -59,28 +59,28 @@
     font-size:17px;
     margin: 15px;
     border-radius: 3px;
-    padding: 13px 50px;
+    padding: 13px 25px;
     text-decoration: none;
     background-color: rgb(212, 212, 252);
 }
 
 .code__qr img{
-    width: 140px;
+    width: 100px;
 }
 
 .code__info p{
-    color: rgba(212, 212, 252,0.6)
+    color: rgba(212, 212, 252,0.6);
+    font-size: 10px;
 }
 
 .code_container{
     display: flex;
     justify-content: center;
-    padding-top: 50px;
+    padding-top: 10px;
     align-items: center;
     flex-direction: column;
 }
 
 .code__qr{
-    margin-top: 20px;
+    margin-top: 10px;
 }
-
