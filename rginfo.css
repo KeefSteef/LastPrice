@@ -136,6 +136,14 @@
 }
 
 @media screen and (max-width:476px){
+    .buiness_cont div {
+        margin-left: 10px;
+        margin: 5px !important;
+        width: 128px;
+    }
+    .bis input{
+        width: 128px !important;
+    }
     .title__text h1 {
         font-size: 27px;
     }
@@ -233,3 +241,17 @@
     text-decoration: none;
     margin-top: 60px;
  }
+
+ .buiness_cont{
+     display: flex;
+ }
+
+ .buiness_cont div{
+     margin: 45px;
+ }
+
+ .buiness_cont *{
+     margin-right: 0;
+ }
+
+ 
